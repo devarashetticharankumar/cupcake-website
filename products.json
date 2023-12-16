@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Lemon Flavour Cupcake",
+    "price": 10.5,
+    "image": "1.14.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "chocolate Flavour Cupcake",
+    "price": 15,
+    "image": "1.9.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "chocolate Flavour Cupcake",
+    "price": 13,
+    "image": "1.8.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "chocolate Flavour Cupcake",
+    "price": 15.6,
+    "image": "1.9.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "chocolate Flavour Cupcake",
+    "price": 18.5,
+    "image": "1.12.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "chocolate Flavour Cupcake",
+    "price": 10,
+    "image": "1.9.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "chocolate Flavour Cupcake",
+    "price": 20,
+    "image": "1.11.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "venilla Flavour Cupcake",
+    "price": 15.5,
+    "image": "1.15.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "venilla Flavour Cupcake",
+    "price": 18,
+    "image": "1.7.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "venilla Flavour Cupcake",
+    "price": 15,
+    "image": "1.8.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "straberry Flavour Cupcake",
+    "price": 17.5,
+    "image": "1.7.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "straberry Flavour Cupcake",
+    "price": 10,
+    "image": "1.11.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "straberry Flavour Cupcake",
+    "price": 25,
+    "image": "1.9.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "straberry Flavour Cupcake",
+    "price": 11.5,
+    "image": "1.8.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Lem Flavour Cupcake",
+    "price": 35,
+    "image": "1.8.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Lem Flavour Cupcake",
+    "price": 14.5,
+    "image": "1.5.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Lem Flavour Cupcake",
+    "price": 15,
+    "image": "1.12.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Lem Flavour Cupcake",
+    "price": 18,
+    "image": "1.8.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Lemon Flavour Cupcake",
+    "price": 25,
+    "image": "1.9.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Lemon Flavour Cupcake",
+    "price": 15,
+    "image": "1.7.jpeg"
+  }
+]
